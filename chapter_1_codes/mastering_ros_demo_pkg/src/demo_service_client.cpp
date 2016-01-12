@@ -34,8 +34,6 @@
 
 #include "ros/ros.h"
 #include "std_msgs/Int32.h"
-#include <iostream>
-
 #include "mastering_ros_demo_pkg/demo_srv.h"
 #include <iostream>
 #include <sstream>
